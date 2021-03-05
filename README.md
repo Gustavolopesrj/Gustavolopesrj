@@ -1,6 +1,6 @@
 ### Seja muito bem vindo ao meu perfil! 👋😄🏆
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-lopes-485992207/)](https://www.linkedin.com/in/gustavo-lopes-485992207/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavolopesrj/)](https://www.linkedin.com/in/gustavolopesrj/)
 
 - Meu nome é Gustavo Lopes, natural do Rio de Janeiro (Brazil).
 
