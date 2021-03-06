@@ -10,7 +10,7 @@
 
 - Já desenvolvi projetos usando VS CODE, HTML, CSS, Javascript, PHP, Mysql, Bootstrap, Python, NodeJs e ReactJS. 
 
-- Veja mais informações sobre em mim em meu Linkedin.
+- Veja mais informações sobre mim em meu LinkedIn.
 
 #### Essas são as linguagens que eu utilizei até hoje/utilizo:
 
